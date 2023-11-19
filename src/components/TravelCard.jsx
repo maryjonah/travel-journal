@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function TravelCard(props) {
-    console.log(props.item)
     return (
         <section className="travel">
             <img src={props.item.imageUrl} className="travel--img" />
