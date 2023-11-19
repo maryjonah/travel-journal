@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import CardList from "./components/TravelCardList";
+import CardList from "./components/TravelList";
 
 export default function App() {
 
